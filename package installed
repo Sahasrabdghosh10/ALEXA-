@@ -1,0 +1,30 @@
+import speech_recognition as sr
+# pip install SpeechRecognition 
+
+import pyttsx3
+(is a text-to-speech conversion library in Python.)
+#pip install pyttsx3
+
+import pywhatkit
+(for playing youtube & google search )
+#pip install pywhatkit
+
+import datetime
+(for checking Date and time )
+#pip install DateTime
+
+import wikipedia
+(for searching on wikipedia )
+#pip install Wikipedia-API
+
+import pyjokes
+(for playing a random jokes )
+#pip install pyjokes
+
+import requests
+( allows you to send HTTP requests using Python.)
+#pip install requests 
+
+from GoogleNews import GoogleNews
+(fetching google news )]
+#pip install GoogleNews
